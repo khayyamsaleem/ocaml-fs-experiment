@@ -1,0 +1,5 @@
+(executables
+  (names api migrate rollback)
+  (public_names api migrate rollback)
+  (libraries lib lwt.unix opium ezjsonm)
+  (preprocess (pps lwt_ppx)))

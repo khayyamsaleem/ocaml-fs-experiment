@@ -1,0 +1,15 @@
+opam-version: "1.2"
+name: "todolist"
+version: "1.0.0"
+maintainer: "Khayyam Saleem <hello@khayyam.me>"
+
+depends: [
+  "dune" {build}
+  "lwt"
+  "lwt_ppx"
+  "caqti"
+  "caqti-lwt"
+  "caqti-driver-postgresql"
+  "opium"
+  "ezjsonm"
+]
