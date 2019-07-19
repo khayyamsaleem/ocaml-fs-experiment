@@ -133,9 +133,6 @@ setup.log
 # Local OPAM switch
 _opam/
 
-### Reasonml ###
-/lib
-
 ### Vim ###
 # Swap
 [._]*.s[a-v][a-z]
