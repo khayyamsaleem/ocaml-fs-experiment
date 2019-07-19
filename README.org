@@ -5,7 +5,7 @@ This repository is a demonstration of creating a full-stack OCaml/ReasonML app.
 
 *DB*: PostgreSQL
 
-*ORM*: Cacti
+*ORM*: Caqti
 
 *Router*: Opium
 
