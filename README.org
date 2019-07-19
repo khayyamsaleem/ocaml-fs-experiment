@@ -1,0 +1,10 @@
+#+TITLE: OCaml Full Stack Tutorial
+#+AUTHOR: Khayyam Saleem
+
+This repository is a demonstration of creating a full-stack OCaml/ReasonML app.
+
+*DB*: PostgreSQL
+
+*ORM*: Cacti
+
+*Router*: Opium
