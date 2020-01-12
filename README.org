@@ -1,4 +1,4 @@
-#+TITLE: OCaml Full Stack Tutorial
+#+TITLE: OCaml Full Stack Experiment
 #+AUTHOR: Khayyam Saleem
 
 This repository is a demonstration of creating a full-stack OCaml/ReasonML app.
